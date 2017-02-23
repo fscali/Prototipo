@@ -1,0 +1,24 @@
+.red-color {
+    color:red;
+}
+
+md-toolbar {
+    background-color: #a12037 !important;
+}
+
+md-sidenav {
+  padding: 20px;
+  width: 200px;
+  background-color: rgb(51,51,51);
+  color: #FFF;
+}
+
+md-grid-list {
+    height: 1200px;
+    width: 90%;
+    margin: auto;
+}
+
+md-grid-tile {
+    overflow: visible;
+}
